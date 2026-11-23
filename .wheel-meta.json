@@ -1,0 +1,22 @@
+{
+  "wheel_id": 944,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-122",
+  "project": "retaining-wall-repairs-toowoomba-budget-tips-9cb6211b760d58c0c4",
+  "parent_t1_ref": "toowoombaretainingwalls-160",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba budget tips",
+  "intended_url": "http://retaining-wall-repairs-toowoomba-budget-tips-9cb6211b760d58c0c4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a17e3d6071091e37",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-local-options-compared-12790e5/",
+      "anchor": "this retaining wall repairs toowoomba local options compared resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
